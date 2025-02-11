@@ -1,4 +1,3 @@
-# code with better interface
 import torch
 from transformers import BertTokenizer, BertModel
 import numpy as np
