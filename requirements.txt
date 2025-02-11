@@ -1,9 +1,10 @@
-streamlit>=1.22.0
-numpy==1.26.4  # Critical fix for Python 3.12 compatibility
-matplotlib>=3.7.1
-setuptools>=68.0.0
-cython>=3.0.0  # Required for proper binary builds
+streamlit==1.29.0
+numpy==1.23.5
+pandas==2.1.4
+scikit-learn==1.3.2
+matplotlib==3.8.1
+seaborn==0.13.0
+requests==2.31.0
+pillow==10.0.1
 torch==2.0.1
 transformers==4.35.2
-scikit-learn==1.3.2
-pillow==10.0.1
